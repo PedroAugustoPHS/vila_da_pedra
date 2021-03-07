@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2021-03-07 16:42:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-02-21 17:17:27 -0300"
@@ -212,6 +218,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2021-02-21 15:58:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2021-03-07 17:39:35 -0300"
     },
     "done": true
   },
@@ -515,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2021-03-07 18:06:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2021-02-21 17:18:14 -0300"
@@ -706,6 +724,12 @@
       "minecraft:zombie_villager": "2021-02-21 18:15:37 -0300"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2021-03-07 17:42:05 -0300"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -989,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2021-03-07 18:08:36 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-02-27 00:22:14 -0300"
@@ -1034,6 +1064,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2021-02-23 18:20:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2021-03-07 17:47:46 -0300"
     },
     "done": true
   },
@@ -1115,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2021-03-07 19:09:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-21 15:08:40 -0300"
@@ -1154,6 +1196,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-02-21 14:54:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2021-03-07 18:09:13 -0300"
     },
     "done": true
   },
@@ -1467,12 +1515,14 @@
       "minecraft:desert": "2021-02-23 17:53:49 -0300",
       "minecraft:jungle": "2021-02-24 17:37:22 -0300",
       "minecraft:birch_forest": "2021-02-21 15:07:00 -0300",
+      "minecraft:badlands": "2021-03-07 17:39:33 -0300",
       "minecraft:savanna_plateau": "2021-02-26 23:13:29 -0300",
       "minecraft:dark_forest": "2021-02-21 19:30:50 -0300",
       "minecraft:river": "2021-02-21 14:48:07 -0300",
       "minecraft:birch_forest_hills": "2021-02-24 15:24:30 -0300",
       "minecraft:wooded_mountains": "2021-02-27 18:59:00 -0300",
       "minecraft:wooded_hills": "2021-02-21 14:47:39 -0300",
+      "minecraft:wooded_badlands_plateau": "2021-03-07 17:41:55 -0300",
       "minecraft:swamp": "2021-02-21 14:48:09 -0300",
       "minecraft:savanna": "2021-02-24 17:36:11 -0300",
       "minecraft:plains": "2021-02-21 19:30:41 -0300"
@@ -2110,9 +2160,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2021-03-07 16:42:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-02-21 17:17:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2021-03-07 17:30:18 -0300"
     },
     "done": true
   },
@@ -2215,6 +2277,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2021-02-21 15:07:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2021-03-07 17:41:29 -0300"
     },
     "done": true
   },
@@ -2344,6 +2412,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-02-21 17:17:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2021-03-07 17:41:38 -0300"
     },
     "done": true
   },
@@ -2521,6 +2595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2021-03-07 18:09:13 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-02-21 18:11:13 -0300"
@@ -2572,6 +2652,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-21 17:19:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2021-03-07 18:08:00 -0300"
     },
     "done": true
   },
@@ -2881,6 +2967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2021-03-07 19:09:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2021-02-22 10:48:44 -0300"
@@ -3109,6 +3201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2021-03-07 18:08:00 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-02-23 17:39:23 -0300"
@@ -3118,6 +3216,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2021-02-27 00:22:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-03-07 17:02:07 -0300"
     },
     "done": true
   },
@@ -3223,6 +3327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2021-03-07 18:09:13 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-02-21 17:17:27 -0300"
@@ -3280,6 +3390,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-02-21 14:52:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-03-07 16:46:20 -0300"
     },
     "done": true
   },
@@ -3424,6 +3540,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2021-02-24 14:40:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-03-07 17:02:07 -0300"
     },
     "done": true
   },

@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-02-19 23:09:56 -0200"
@@ -389,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-11 17:42:35 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-02-19 23:18:38 -0200"
@@ -431,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2021-02-19 23:49:58 -0200"
@@ -464,6 +482,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2021-02-19 22:44:44 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
     },
     "done": true
   },
@@ -523,7 +547,9 @@
       "minecraft:hoglin": "2021-02-27 16:33:38 -0300",
       "minecraft:spider": "2021-02-24 10:56:11 -0300",
       "minecraft:creeper": "2021-02-25 08:23:37 -0300",
+      "minecraft:slime": "2021-03-11 22:15:32 -0300",
       "minecraft:phantom": "2021-02-24 14:58:55 -0300",
+      "minecraft:cave_spider": "2021-03-11 22:20:55 -0300",
       "minecraft:piglin": "2021-02-27 16:08:46 -0300",
       "minecraft:silverfish": "2021-02-19 23:10:21 -0200",
       "minecraft:enderman": "2021-02-24 10:51:56 -0300",
@@ -601,6 +627,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-02-27 18:15:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
     },
     "done": true
   },
@@ -682,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-02-19 22:48:08 -0200"
@@ -724,9 +762,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-03-11 22:37:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-02-19 23:50:39 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
     },
     "done": true
   },
@@ -781,6 +831,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-02-24 10:35:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
     },
     "done": true
   },
@@ -841,6 +897,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-02-24 16:02:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
     },
     "done": true
   },
@@ -967,6 +1029,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2021-02-19 23:40:14 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
     },
     "done": true
   },
@@ -1230,9 +1298,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2021-03-11 21:40:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2021-02-19 23:41:01 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-03-11 16:58:35 -0300"
     },
     "done": true
   },
@@ -1266,9 +1346,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-02-27 20:36:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-11 17:42:35 -0300"
     },
     "done": true
   },
@@ -1425,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-11 17:42:35 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-02-25 10:25:12 -0300"
@@ -1434,6 +1532,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-02-24 16:20:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-03-11 22:01:09 -0300"
     },
     "done": true
   },
@@ -1485,6 +1589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-11 17:42:35 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-02-19 23:07:13 -0200"
@@ -1533,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-24 11:01:05 -0300"
@@ -1545,15 +1661,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2021-02-27 19:40:02 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2021-02-27 19:39:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-02-27 19:40:02 -0300"
     },
     "done": true
   },
@@ -1629,6 +1745,7 @@
       "cooked_beef": "2021-02-19 23:49:22 -0200",
       "apple": "2021-02-27 20:10:25 -0300",
       "rotten_flesh": "2021-02-20 00:26:26 -0200",
+      "golden_carrot": "2021-03-11 16:58:23 -0300",
       "cooked_salmon": "2021-02-19 22:31:34 -0200",
       "carrot": "2021-02-24 10:35:58 -0300"
     },
@@ -1637,6 +1754,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-02-19 22:24:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
     },
     "done": true
   },
@@ -1828,6 +1951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-02-19 22:59:26 -0200"
@@ -1996,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-03-11 22:37:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-02-19 23:18:38 -0200"
@@ -2020,6 +2155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-03-11 22:37:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-02-24 11:02:28 -0300"
@@ -2035,6 +2176,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2021-02-27 19:54:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
     },
     "done": true
   },
@@ -2101,6 +2248,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2021-02-19 23:18:38 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
     },
     "done": true
   },
@@ -2236,6 +2389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-02-24 11:02:28 -0300"
@@ -2320,9 +2479,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2021-03-11 18:51:33 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2021-02-25 11:47:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
     },
     "done": true
   },
@@ -2365,6 +2536,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-02-19 23:50:39 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
     },
     "done": true
   },
@@ -2413,6 +2590,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-02-19 22:59:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
     },
     "done": true
   },
@@ -2644,6 +2827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-11 21:40:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-02-24 09:43:06 -0300"
@@ -2668,6 +2857,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-03-11 17:42:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2021-02-19 22:30:42 -0200"
@@ -2677,6 +2878,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2021-02-19 23:18:38 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-11 19:37:59 -0300"
     },
     "done": true
   },

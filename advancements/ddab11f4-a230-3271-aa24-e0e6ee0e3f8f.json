@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-03-11 18:11:38 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-03-07 16:18:04 -0300"
@@ -350,6 +356,18 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2021-02-24 16:39:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2021-03-11 19:49:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-03-11 22:15:04 -0300"
     },
     "done": true
   },
@@ -551,9 +569,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-03-11 22:11:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-02-18 23:14:29 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-03-11 22:15:04 -0300"
     },
     "done": true
   },
@@ -566,6 +596,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2021-02-24 16:02:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2021-03-11 19:44:04 -0300"
     },
     "done": true
   },
@@ -777,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-03-11 19:44:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-02-24 16:02:30 -0300"
@@ -804,6 +846,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2021-02-24 16:02:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2021-03-11 19:44:04 -0300"
     },
     "done": true
   },
@@ -969,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-03-11 19:44:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-02-19 23:26:22 -0200"
@@ -1014,6 +1068,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-02-22 19:02:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-03-11 18:22:47 -0300"
     },
     "done": true
   },
@@ -1065,6 +1125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2021-03-11 19:49:36 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-02-18 22:58:51 -0200"
@@ -1110,6 +1176,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-02-24 16:02:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2021-03-11 19:49:36 -0300"
     },
     "done": true
   },
@@ -1490,6 +1562,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2021-03-07 16:43:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2021-03-11 22:15:04 -0300"
     },
     "done": true
   },
@@ -1963,6 +2041,7 @@
       "bread": "2021-02-21 20:41:18 -0300",
       "golden_apple": "2021-02-21 21:47:48 -0300",
       "melon_slice": "2021-02-21 19:19:45 -0300",
+      "golden_carrot": "2021-03-11 22:20:41 -0300",
       "cooked_rabbit": "2021-02-21 20:36:12 -0300",
       "cooked_chicken": "2021-02-19 21:52:51 -0200",
       "cooked_salmon": "2021-02-18 23:44:10 -0200",
@@ -2057,6 +2136,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-02-19 00:00:20 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-03-11 19:44:04 -0300"
     },
     "done": true
   },
@@ -2637,6 +2722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-03-11 19:44:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-03-07 16:18:04 -0300"
@@ -2964,6 +3055,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2021-02-19 23:09:04 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-03-11 18:22:47 -0300"
     },
     "done": true
   },

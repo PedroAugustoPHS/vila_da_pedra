@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-12 21:04:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-03-02 15:57:19 -0300"
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-11 18:27:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2021-03-12 22:18:02 -0300"
     },
     "done": true
   },
@@ -182,6 +194,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-03-02 16:17:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-03-12 21:52:31 -0300"
     },
     "done": true
   },
@@ -260,6 +278,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-03-02 18:41:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-03-12 21:52:31 -0300"
     },
     "done": true
   },
@@ -362,6 +386,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-03-02 17:40:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-03-12 22:18:33 -0300"
     },
     "done": true
   },
@@ -498,6 +528,7 @@
       "minecraft:enderman": "2021-03-10 23:54:54 -0300",
       "minecraft:silverfish": "2021-03-11 21:49:59 -0300",
       "minecraft:zombie": "2021-03-02 16:03:23 -0300",
+      "minecraft:drowned": "2021-03-12 22:47:06 -0300",
       "minecraft:zombie_villager": "2021-03-10 23:11:09 -0300"
     },
     "done": false
@@ -517,6 +548,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-03-02 18:14:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-12 21:04:10 -0300"
     },
     "done": true
   },
@@ -613,6 +650,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2021-03-10 23:13:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-03-12 21:10:46 -0300"
     },
     "done": true
   },
@@ -1232,6 +1275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-12 21:04:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-03-02 16:20:55 -0300"
@@ -1376,6 +1425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-12 21:04:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2021-03-02 18:41:41 -0300"
@@ -1418,6 +1473,7 @@
       "pumpkin_pie": "2021-03-10 23:51:36 -0300",
       "bread": "2021-03-10 23:28:34 -0300",
       "golden_apple": "2021-03-11 01:02:59 -0300",
+      "rotten_flesh": "2021-03-12 23:07:09 -0300",
       "golden_carrot": "2021-03-11 17:06:12 -0300",
       "mushroom_stew": "2021-03-11 21:34:31 -0300",
       "carrot": "2021-03-02 15:58:14 -0300"
@@ -1451,6 +1507,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2021-03-02 16:34:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-12 21:04:10 -0300"
     },
     "done": true
   },
@@ -1502,6 +1564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-03-12 21:52:31 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2021-03-02 15:54:44 -0300"
@@ -1535,6 +1603,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-03-02 16:04:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-03-12 21:52:31 -0300"
     },
     "done": true
   },
@@ -1577,6 +1651,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2021-03-11 00:53:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2021-03-12 22:18:02 -0300"
     },
     "done": true
   },
@@ -1683,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-12 21:04:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-03-02 15:53:18 -0300"
@@ -1785,6 +1871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-03-12 21:10:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-03-11 21:59:00 -0300"
@@ -1812,6 +1904,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-03-02 16:34:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-03-12 21:10:46 -0300"
     },
     "done": true
   },
@@ -1881,6 +1979,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-03-12 21:27:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-03-02 16:34:08 -0300"
@@ -1929,9 +2033,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-12 21:04:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2021-03-02 18:45:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2021-03-12 22:18:02 -0300"
     },
     "done": true
   },
@@ -1950,6 +2066,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2021-03-02 17:05:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-03-12 21:52:31 -0300"
     },
     "done": true
   },
@@ -1989,9 +2111,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-12 21:04:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-03-02 17:05:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-12 21:04:10 -0300"
     },
     "done": true
   },
@@ -2064,6 +2198,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-03-02 16:23:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-03-12 21:52:31 -0300"
     },
     "done": true
   },
@@ -2418,6 +2558,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-03-10 23:51:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-03-12 21:52:31 -0300"
     },
     "done": true
   },

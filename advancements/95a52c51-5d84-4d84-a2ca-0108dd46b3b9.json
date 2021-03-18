@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-03-14 21:34:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-02-21 15:40:08 -0300"
@@ -789,6 +795,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2021-03-07 15:55:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-03-14 20:46:39 -0300"
     },
     "done": true
   },
@@ -1431,6 +1443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-03-14 21:29:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-02-21 15:37:55 -0300"
@@ -1493,6 +1511,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chorus_fruit": "2021-03-14 21:34:32 -0300",
       "porkchop": "2021-02-21 21:17:46 -0300",
       "bread": "2021-02-21 15:40:34 -0300",
       "golden_apple": "2021-02-26 23:57:27 -0300",
@@ -1935,6 +1954,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-03-14 20:31:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-02-21 16:38:48 -0300"
@@ -2217,6 +2242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-03-14 20:46:39 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-02-21 16:40:00 -0300"
@@ -2472,6 +2503,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-21 16:06:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2021-03-14 21:29:06 -0300"
     },
     "done": true
   },

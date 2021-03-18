@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-03-14 20:20:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-02-21 15:12:25 -0300"
@@ -503,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-03-14 21:06:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-02-21 15:02:16 -0300"
@@ -734,6 +746,18 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2021-02-24 11:29:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-03-14 21:06:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-03-14 21:06:29 -0300"
     },
     "done": true
   },
@@ -1334,6 +1358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-03-14 21:06:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-21 15:07:04 -0300"
@@ -1832,6 +1862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-03-14 21:06:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-02-21 21:36:51 -0300"
@@ -2280,6 +2316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-03-14 21:06:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-02-21 21:45:43 -0300"
@@ -2317,6 +2359,7 @@
       "bread": "2021-02-21 15:46:22 -0300",
       "rotten_flesh": "2021-02-21 14:54:09 -0300",
       "melon_slice": "2021-02-21 17:31:10 -0300",
+      "golden_carrot": "2021-03-14 21:04:41 -0300",
       "cooked_chicken": "2021-02-21 20:18:42 -0300",
       "cooked_salmon": "2021-02-21 16:49:51 -0300",
       "carrot": "2021-02-21 19:47:02 -0300"
